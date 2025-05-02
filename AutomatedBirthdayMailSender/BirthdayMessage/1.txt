@@ -1,0 +1,9 @@
+<p>On behalf of everyone, we want to wish you a day filled with joy, celebration, and appreciation.</p>
+
+<p>Your dedication and hard work are truly valued, and today, we celebrate <em>you</em> — not just as an employee, but as an incredible person who brings energy, talent, and kindness into everything you do.</p>
+
+<div class="center">
+<img src="cid:posterImage" alt="Birthday Poster" class="poster">
+</div>
+
+<p>May your birthday be full of moments that make you smile and memories that stay with you for the year to come.</p>

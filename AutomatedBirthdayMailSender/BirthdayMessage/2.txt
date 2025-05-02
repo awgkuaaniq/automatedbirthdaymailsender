@@ -1,0 +1,9 @@
+<p>Sending our warmest birthday wishes to you! Today, we take a moment to recognize all that you bring to our workplace and community.</p>
+
+<p>Your enthusiasm and commitment are inspiring, and your presence uplifts the people around you. You make an impact simply by being yourself, and we’re grateful to walk this path with you.</p>
+
+<div class="center">
+<img src="cid:posterImage" alt="Birthday Poster" class="poster">
+</div>
+
+<p>May your year ahead be full of fresh opportunities, success, good health, and lots of well-deserved joy.</p>

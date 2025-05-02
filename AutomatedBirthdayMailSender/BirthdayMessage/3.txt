@@ -1,0 +1,10 @@
+<p>Happy Birthday from all of us! We’re so lucky to have you as part of our work family, and today is the perfect opportunity to show our gratitude.</p>
+
+<p>Your positivity, perseverance, and personality make this team stronger and more vibrant. You've grown with us, contributed meaningfully, and we’re so excited to continue this journey together.</p>
+
+
+<div class="center">
+<img src="cid:posterImage" alt="Birthday Poster" class="poster">
+</div>
+
+<p>Take time today to reflect on how far you’ve come — and enjoy every well-earned moment of celebration.</p>

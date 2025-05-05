@@ -85,6 +85,8 @@ OneDrive
 
 ## 🔧 Step-by-Step: Creating the Flow
 
+### 🌀 0. Go to Microsoft Power Automate and click 'Create' on the sidebar
+
 ### 🌀 1. Start a **Scheduled Cloud Flow**
 
 - Trigger: **Recurrence**
